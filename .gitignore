@@ -108,6 +108,8 @@ celerybeat.pid
 .3dmbak
 .jpg
 .pdf
+stream.py
+stream2.py
 
 # Environments
 .env
