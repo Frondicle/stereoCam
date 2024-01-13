@@ -101,6 +101,14 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
+# my bunch of junk
+.3dm
+.cxprj
+.stl
+.3dmbak
+.jpg
+.pdf
+
 # Environments
 .env
 .venv
